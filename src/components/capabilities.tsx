@@ -5,7 +5,7 @@ const Capabilities = () => {
   return (
     <section id="capabilities" className="py-16 bg-gray-50">
       <div className="container-wrapper">
-        <h2 className="section-title">Capabilities & Service</h2>
+        <h2 className="section-title mb-8">Capabilities & Service</h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div>
