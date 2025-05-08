@@ -60,7 +60,7 @@ const Header = () => {
               </SmoothScrollLink>
             </li>
             <li>
-              <Link href="/Chinese" className="text-sm hover:text-[#4baaa4] transition-colors">
+              <Link href="/chinese" className="text-sm hover:text-[#4baaa4] transition-colors">
                 中文
               </Link>
             </li>
