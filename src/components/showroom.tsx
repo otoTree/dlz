@@ -190,7 +190,7 @@ const Showroom = () => {
 
       <section id="showroom" className="py-16 bg-white">
         <div className="container-wrapper">
-          <h2 className="section-title mb-2">Capabilities Showroom</h2>
+          <h2 className="section-title font-bold mb-2">Capabilities Showroom</h2>
 
           {/* 桌面端标签页 - 提取为独立组件会更清晰 */}
           <div className="hidden md:grid grid-cols-4 gap-1 mb-8">
