@@ -34,7 +34,7 @@ const ContactForm = () => {
   return (
     <section id="ContactUs" className="py-16 bg-gray-100">
       <div className="container-wrapper">
-        <h2 className="section-title">Contact Us</h2>
+        <h2 className="section-title mb-8">Contact Us</h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
           <div>
