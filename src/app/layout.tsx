@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "GUERDANQI | Shantou Nanmao Knitting Industry Co., Ltd.",
+  title: "GUDANERQI | Shantou Nanmao Knitting Industry Co., Ltd.",
   description: "Shantou Nanmao Knitting Industry Co., Ltd. is located in Shantou City, Guangdong Province, China.",
 };
 
